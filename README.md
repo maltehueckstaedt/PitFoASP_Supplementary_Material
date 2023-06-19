@@ -1,12 +1,14 @@
-# Abstract
+# Power in the Field of Art School Professors: The Role of Symbolic, Social, Cultural and Economic Capital 
+
+## Abstract
 
 German art schools enjoy a high level of recognition in the international art world. This is hardly surprising considering that the world's most renowned and expensive contemporary artists regularly include names who have studied and/or taught at German art schools. In the social sciences, art schools have repeatedly attracted attention as important training centres for artistic elites. In particular, the selection processes and training practices at German art schools have been thematised in various ways. However, the question of the extent to which systematic inequalities in the distribution of power exist between professors at art schools has remained unaddressed by social science analysis. Although the professors of german art schools are a socio-structurally narrow and homogeneous elite of artists, it can be assumed that they nevertheless occupy exceedingly disparate positions in the field of art. These positions should be associated with unequal opportunities in the *intra* and *extra muros* struggles of the art schools for the monopoly of definition of a *legitimate art*. Based on Bourdieu's field theory, the article investigates the extent to which systematic inequalities exist in the distribution of power between professors, which types of professors have particular potential for influence and power, and the mechanisms on which the distribution of power resources is based. In order to grasp the distribution of power among art academy professors, the article focuses on the distributions, relationships, interactions and hierarchies of four forms of capital: Social, cultural, economic and symbolic capital. The metadata of n=258 artists who hold a full professorship at one of the n=22 state-run German art schools serve as the data basis.
 
-# Supplementary material
+## Supplementary material
 
-## Inputvariables of the FAMD
+### Inputvariables of the FAMD
 
-### Inputvariables
+#### Inputvariables
 
 | Dimension         | Subdimension                  | Operatio-nalisation                                                         | Name                             | Source                            |
 | ----------------- | ----------------------------- | --------------------------------------------------------------------------- | -------------------------------- | --------------------------------- |
@@ -22,11 +24,11 @@ German art schools enjoy a high level of recognition in the international art wo
 |                   | –                             | Career age                                                                  | CAREER                           | Artists of the World/Own research |
 |                   | –                             | Disciplinary affiliation                                                    | DISP1-DISP19                     | Artists of the World/Own research |
 
-### Descriptive statistics of the inputvariables
+#### Descriptive statistics of the inputvariables
 
 To view the distribution of the factor analysis input variables for mixed data, a [ShinyApp](https://shiny.posit.co/) has been provided. It can be found [here](https://chernofffaces.shinyapps.io/field_of_art_professors_descriptive_statistics/). 
 
-## Art schools of the RKK
+### Art schools of the RKK
 
 | Abbreviation        | Full name                                                                                |
 |---------------------|------------------------------------------------------------------------------------------|
@@ -54,7 +56,7 @@ To view the distribution of the factor analysis input variables for mixed data, 
 | AoFA Nuremberg      | [Academy of Fine Arts Nuremberg](https://adbk-nuernberg.de/en/home/)                     |
 | UoASaA Bielefeld    | [University of Applied Sciences and Arts Bielefeld](https://www.hsbi.de/en)              |
 
-## Further Art schools
+### Further Art schools
 
 | Abbreviation        | Full name                                                                                |
 |---------------------|------------------------------------------------------------------------------------------|
