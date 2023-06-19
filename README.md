@@ -11,7 +11,7 @@ German art schools enjoy a high level of recognition in the international art wo
 #### Inputvariables
 
 | Dimension         | Subdimension                  | Operatio-nalisation                                                         | Name                             | Source                            |
-| ----------------- | ----------------------------- | --------------------------------------------------------------------------- | -------------------------------- | --------------------------------- |
+|-------------------|-------------------------------|-----------------------------------------------------------------------------|----------------------------------|-----------------------------------|
 | CULTURAL CAPITAL: | certified cultural capital    | Study at an art school                                                      | LEARN20                          | Artists of the World/Own research |
 |                   | Incorporated cultural capital | Place of art study                                                          | LEARN1-LEARN19, LEARN21-LEARN125 | Artists of the World/Own research |
 | SOCIAL CAPITAL:   | –                             | Ranking position of the gallery that has represented a professor most often | REPGAL1-REPGAL5                  | Artfacts                          |
@@ -58,6 +58,6 @@ To view the distribution of the factor analysis input variables for mixed data, 
 
 ### Further art schools
 
-| Abbreviation        | Full name                                                                                |
-|---------------------|------------------------------------------------------------------------------------------|
-| UoASaA Bielefeld    | [University of Applied Sciences and Arts Bielefeld](https://www.hsbi.de/en)              |
+| Abbreviation     | Full name                                                                   |
+|------------------|-----------------------------------------------------------------------------|
+| UoASaA Bielefeld | [University of Applied Sciences and Arts Bielefeld](https://www.hsbi.de/en) |
