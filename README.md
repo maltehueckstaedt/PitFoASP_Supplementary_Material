@@ -56,7 +56,7 @@ To view the distribution of the factor analysis input variables for mixed data, 
 | AoFA Nuremberg      | [Academy of Fine Arts Nuremberg](https://adbk-nuernberg.de/en/home/)                     |
 | UoASaA Bielefeld    | [University of Applied Sciences and Arts Bielefeld](https://www.hsbi.de/en)              |
 
-### Further Art schools
+### Further art schools
 
 | Abbreviation        | Full name                                                                                |
 |---------------------|------------------------------------------------------------------------------------------|
