@@ -54,10 +54,4 @@ To view the distribution of the factor analysis input variables for mixed data, 
 | AoFA Düsseldorf     | [Academy of Fine Arts Düsseldorf](https://www.kunstakademie-duesseldorf.de/de/)          |
 | CoA Kassel          | [College of Art Kassel](https://kunsthochschulekassel.de/en/study-programmes.html)       |
 | AoFA Nuremberg      | [Academy of Fine Arts Nuremberg](https://adbk-nuernberg.de/en/home/)                     |
-| UoASaA Bielefeld    | [University of Applied Sciences and Arts Bielefeld](https://www.hsbi.de/en)              |
 
-### Further art schools
-
-| Abbreviation     | Full name                                                                   |
-|------------------|-----------------------------------------------------------------------------|
-| UoASaA Bielefeld | [University of Applied Sciences and Arts Bielefeld](https://www.hsbi.de/en) |
